@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663542013 source:c:\users\lenovo\documents\c++2022\pregunta3\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

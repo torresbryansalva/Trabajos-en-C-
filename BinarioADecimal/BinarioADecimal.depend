@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663873928 source:c:\users\lenovo\documents\c++2022\binarioadecimal\main.cpp
+	<iostream>
+	<cmath>
+

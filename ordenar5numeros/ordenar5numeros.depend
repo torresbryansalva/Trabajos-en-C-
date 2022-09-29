@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664171395 source:c:\users\lenovo\documents\c++2022\ordenar5numeros\main.cpp
+	<iostream>
+	<conio.h>
+
